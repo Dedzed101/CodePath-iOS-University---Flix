@@ -1,5 +1,5 @@
 # CodePath-iOS-University---Flix
-A repository holding files for the first part of the Flix app
+A repository holding files for the Flix app
 
 # Flix
 
