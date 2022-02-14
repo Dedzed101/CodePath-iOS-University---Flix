@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src=http://g.recordit.co/StioQFam9Z.gif width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Remembering to set the reuse identifier is a crucial step I almost forgot. Learning how the API key fitsd into the url and affects how the API works was a little bit confusing at first. 
 
 ---
 
